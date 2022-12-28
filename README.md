@@ -1,4 +1,4 @@
-# Chromium MacOS build with proprietary codecs
+# Chromium MacOS build with proprietary codecs (ARM64)
 
 Download 
 [Chromium v 111.0.5500.0 (arm64)](https://github.com/lexesv/chromium-macos-proprietary-codecs/releases/download/v111/Chromium.app.zip)
