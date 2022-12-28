@@ -7,4 +7,4 @@ If you zip, upload Chromium.app to some web service and download it to an Arm Ma
 
 To fix this, open a terminal and run:
 
-xattr -rc Chromium.app
+```xattr -rc Chromium.app```
